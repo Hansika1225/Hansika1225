@@ -32,11 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hansika1225&show_icons=true)
-
----
-
 ### 📫 Connect With Me
 - 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/hansika-arora-68909a325)
 - 📧 Email: hansikaarora3053@gmail.com
