@@ -1,15 +1,15 @@
 ## Hi, I'm Hansika Arora 👋
 
-🎨 Frontend Developer | React Enthusiast  
+🎨 Full Stack Developer | React Enthusiast  
 🎓 Computer Science Student  
 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently improving **Frontend Development & DSA**
+- 🌱 Currently improving **Full Stack Development & DSA**
 - ⚛️ Love building UIs using **React**
 - 🧩 Focused on clean, responsive, user-friendly interfaces
-- 🎯 Goal: Frontend Developer Intern / SDE Role
+- 🎯 Goal: SDE Role
 - 📈 Consistently improving UI quality, performance and code readability
 
 ---
@@ -17,9 +17,11 @@
 ### 🛠️ Frontend Tech Stack
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, Vite
-- **Backend(basic):**  Node.js
+- **Backend:**  Node.js
+- **Databases:** MongoDB, MySQL, PostgreSQL
 - **Styling:** CSS, Responsive Design
 - **Tools:** Git, GitHub, VS Code, Postman
+- **Deployment:** Vercel, Render
 
 ---
 
